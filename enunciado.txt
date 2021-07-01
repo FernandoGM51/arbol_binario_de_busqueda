@@ -1,0 +1,5 @@
+“En su origen, la teoría del caos surgió de los intentos por hacer modelos meteorológicos 
+computarizados, en la década de 1960. El clima es un sistema grande y complicado; 
+específicamente la atmósfera de la Tierra cuando interactúa con las masas continentales y el 
+mar, y con el Sol. El comportamiento de este sistema grande y complicado siempre desafía 
+el entendimiento. Así que, como es natural, no podemos predecir el clima.”
